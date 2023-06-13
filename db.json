@@ -1,0 +1,3315 @@
+{
+  "post": [],
+  "favourite": [],
+  "videos": [
+    [
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "081CTocTarSMc0uY96Er2dBK4JI",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "lcz-rpeqBT4"
+          },
+          "snippet": {
+            "publishedAt": "2023-06-10T14:00:29Z",
+            "channelId": "UC0uAeNHLLuAovOTHI-aOZiQ",
+            "title": "🛑 PC Gaming is Cheap ! 🛑 $500 PC Build | $800 1440p PC Build | Best PC Build 2023 (June)",
+            "description": "Sponsor: Windows 10 Pro ($16):https://biitt.ly/kPBz6 3 Insane Value PC Builds for 1440p, 1080p, 4K 144 FPS Click Show ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/lcz-rpeqBT4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/lcz-rpeqBT4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/lcz-rpeqBT4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "PC Builder",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-06-10T14:00:29Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "3Yp1qhQEy5-E0aHrGFK4_qCzt8M",
+          "id": "UC0uAeNHLLuAovOTHI-aOZiQ",
+          "snippet": {
+            "title": "PC Builder",
+            "description": "Want to have fun and get the best price to performance in your PC Build? From new builders to pros, you've come to the right place! We'll have builds for the hardcore gamer, creative video editor, and everyday user. We'll cover trends, new products, and random building fun! And beyond the best pc build, if you are looking for the best gaming monitor, best gaming laptop, or DIYPC industry news such as GPU prices coming down, we cover that content as well. ",
+            "customUrl": "@pcbuilderchannel",
+            "publishedAt": "2019-11-17T19:43:28.274793Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMdbHpVKysS9cKE8AIYxul0SQd0oZasPYThpeZo=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMdbHpVKysS9cKE8AIYxul0SQd0oZasPYThpeZo=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMdbHpVKysS9cKE8AIYxul0SQd0oZasPYThpeZo=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "PC Builder",
+              "description": "Want to have fun and get the best price to performance in your PC Build? From new builders to pros, you've come to the right place! We'll have builds for the hardcore gamer, creative video editor, and everyday user. We'll cover trends, new products, and random building fun! And beyond the best pc build, if you are looking for the best gaming monitor, best gaming laptop, or DIYPC industry news such as GPU prices coming down, we cover that content as well. "
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "38601949",
+            "subscriberCount": "315000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "217"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "ywJ6WbcQknYkThb2bUz0ktLd7yY",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "5U77DZvzUIU"
+          },
+          "snippet": {
+            "publishedAt": "2023-02-15T16:15:22Z",
+            "channelId": "UCXGgrKt94gR6lmN4aN3mYTg",
+            "title": "How To Build a Gaming PC in 2023",
+            "description": "Everything you need to build a gaming PC in 2023! New Customer Exclusive - $25 Off Your Entire Purchase of $100 or More!",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/5U77DZvzUIU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/5U77DZvzUIU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/5U77DZvzUIU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Austin Evans",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-02-15T16:15:22Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "0l-5UQwqLdPjDwhU6YIFHD1F-eQ",
+          "id": "UCXGgrKt94gR6lmN4aN3mYTg",
+          "snippet": {
+            "title": "Austin Evans",
+            "description": "The best of technology from gaming PCs to smartphones and everything in between. Whether it's finding out if that new gadget is worth it, discovering the coolest of retro and cutting edge tech or testing the latest smartphone you'll find it all here. \n\nWant to send something for me to take a look at?\n\nAustin Evans\n112 Harvard Avenue #49\nClaremont, CA 91711\n\nChannel Staff:\n\nHost - Austin Evans\nProducers - Kenneth Bolido, Matt Ansini, Alex and Kinsey\nVideo Editor - Rio\nVideo Editor - Seth Dacio\nCinematographer - Joanna\n",
+            "customUrl": "@austinevans",
+            "publishedAt": "2007-08-05T01:39:45Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqONYJyETQF9a0beyPryLh8CsPqILrMZowvcX3AsFA=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqONYJyETQF9a0beyPryLh8CsPqILrMZowvcX3AsFA=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqONYJyETQF9a0beyPryLh8CsPqILrMZowvcX3AsFA=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Austin Evans",
+              "description": "The best of technology from gaming PCs to smartphones and everything in between. Whether it's finding out if that new gadget is worth it, discovering the coolest of retro and cutting edge tech or testing the latest smartphone you'll find it all here. \n\nWant to send something for me to take a look at?\n\nAustin Evans\n112 Harvard Avenue #49\nClaremont, CA 91711\n\nChannel Staff:\n\nHost - Austin Evans\nProducers - Kenneth Bolido, Matt Ansini, Alex and Kinsey\nVideo Editor - Rio\nVideo Editor - Seth Dacio\nCinematographer - Joanna\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "1317347017",
+            "subscriberCount": "5390000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1887"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "XJLCEJt-A9DE3TQv-AuiGfasJtM",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "PXaLc9AYIcg"
+          },
+          "snippet": {
+            "publishedAt": "2021-04-09T18:01:47Z",
+            "channelId": "UChIZGfcnjHI0DG4nweWEduw",
+            "title": "How To Build A PC - Step by Step (Full Build Guide)",
+            "description": "A fully in-depth step by step PC build guide. Includes everything from installation of parts, installing Windows OS, installing drivers, ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/PXaLc9AYIcg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/PXaLc9AYIcg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/PXaLc9AYIcg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "TechSource",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-04-09T18:01:47Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "9y7LyMxfrm_gmnmCPW3MPznUlzg",
+          "id": "UChIZGfcnjHI0DG4nweWEduw",
+          "snippet": {
+            "title": "TechSource",
+            "description": "Join the Discord Server:\nhttps://discord.gg/Techsource\n\nInstagram: https://www.instagram.com/ed.techsource/?hl=en\nTwitter: https://twitter.com/Ed_TechSource\nTech Deals + Mousepad Merch: https://www.dealsource.tech/\n\n",
+            "customUrl": "@techsource",
+            "publishedAt": "2010-01-24T22:34:11Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPdDNapG4aOg1wHBx6iXioJXyucynmz_okRWWNv=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPdDNapG4aOg1wHBx6iXioJXyucynmz_okRWWNv=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPdDNapG4aOg1wHBx6iXioJXyucynmz_okRWWNv=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "TechSource",
+              "description": "Join the Discord Server:\nhttps://discord.gg/Techsource\n\nInstagram: https://www.instagram.com/ed.techsource/?hl=en\nTwitter: https://twitter.com/Ed_TechSource\nTech Deals + Mousepad Merch: https://www.dealsource.tech/\n\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "746418817",
+            "subscriberCount": "3550000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1587"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "FgcFDqjTCxK9OZbGF1--rYBNnSE",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "4Hn_RRic9F8"
+          },
+          "snippet": {
+            "publishedAt": "2023-06-07T19:33:03Z",
+            "channelId": "UCBS1NUWY7oC6FFHaXQy4zAA",
+            "title": "You’ll Hate This Gaming PC Build… 🤷‍♂️",
+            "description": "",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/4Hn_RRic9F8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/4Hn_RRic9F8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/4Hn_RRic9F8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Zach's Tech Turf",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-06-07T19:33:03Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "jTThln9zjOAqqGIoQhMz74HRiuU",
+          "id": "UCBS1NUWY7oC6FFHaXQy4zAA",
+          "snippet": {
+            "title": "Zach's Tech Turf",
+            "description": "The PC building channel for people with busy lives! Creating PC building, benchmarking, and setup guide videos the way I personally like to watch videos, quick and to the point!\n\nHere at Zach's Tech Turf I'm all about delivering only the essential information that you need to purchase and build your first gaming PC, make some money with your next gaming PC flip, or whatever other PC hardware needs you may have! \n\nI also live stream all of my gaming PC builds over on my Twitch channel (link below) and I'm VERY active in my Discord community, we would love to have you.",
+            "customUrl": "@zachstechturf",
+            "publishedAt": "2015-04-26T00:35:30Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP0lokT8Sl0k09CYS6GN2M2p07nY1ZHhjiLhNKZh3A=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP0lokT8Sl0k09CYS6GN2M2p07nY1ZHhjiLhNKZh3A=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP0lokT8Sl0k09CYS6GN2M2p07nY1ZHhjiLhNKZh3A=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Zach's Tech Turf",
+              "description": "The PC building channel for people with busy lives! Creating PC building, benchmarking, and setup guide videos the way I personally like to watch videos, quick and to the point!\n\nHere at Zach's Tech Turf I'm all about delivering only the essential information that you need to purchase and build your first gaming PC, make some money with your next gaming PC flip, or whatever other PC hardware needs you may have! \n\nI also live stream all of my gaming PC builds over on my Twitch channel (link below) and I'm VERY active in my Discord community, we would love to have you."
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "59891944",
+            "subscriberCount": "246000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "854"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "gjWzCHGXCDQWiCv44OnwVI5S110",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "Pxk2xhzzBiY"
+          },
+          "snippet": {
+            "publishedAt": "2023-06-10T19:00:17Z",
+            "channelId": "UCwdEr_DVvYp6Maf-OTw7z_w",
+            "title": "Everyone is Buying This $369 Gaming PC...Should You?",
+            "description": "ARES RGB DDR5-6000 32GB: https://bit.ly/3MTk1az We have yet another STG gaming PC to review! This HP prebuilt has been ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Pxk2xhzzBiY/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Pxk2xhzzBiY/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Pxk2xhzzBiY/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Toasty Bros",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-06-10T19:00:17Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "JWjQEGm0B0OodSYh298zIdVtoSM",
+          "id": "UCwdEr_DVvYp6Maf-OTw7z_w",
+          "snippet": {
+            "title": "Toasty Bros",
+            "description": "Here at the Toastybros, we aim to deliver quality PC hardware reviews and custom PC build guides aimed to fit a wide range of budgets and needs. PC gaming is at the core of what we create here! Check out our social medias and other YouTube channels as well as our PC selling shop PCBros.tech\n\nToastybros is a participant in the Amazon EU and US Associates Program & Amazon Services LLC Associates, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk & Amazon.coms\n\n{Jackson's PC Build}\nCpu: AMD Ryzen 7 5800x\nGPU: RTX 2080 Super\nRam: 32GB Crucial RGB\nHDD: 4 Tb 7200Rpm, 500GB NVMe SSD\n\n{Matt's PC Build}\nCpu: AMD Ryzen 7 5800x\nGpu: RTX 2080 Super\nRam: 32Gb DDR4\nSSD - 1TB NVME \nHDD - 1TB HDD",
+            "customUrl": "@toastybros",
+            "publishedAt": "2014-09-09T22:29:35Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqNErvzs7Iaw88k2zNRw-AYfwPm83YIHRMvqyabEHA=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqNErvzs7Iaw88k2zNRw-AYfwPm83YIHRMvqyabEHA=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqNErvzs7Iaw88k2zNRw-AYfwPm83YIHRMvqyabEHA=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Toasty Bros",
+              "description": "Here at the Toastybros, we aim to deliver quality PC hardware reviews and custom PC build guides aimed to fit a wide range of budgets and needs. PC gaming is at the core of what we create here! Check out our social medias and other YouTube channels as well as our PC selling shop PCBros.tech\n\nToastybros is a participant in the Amazon EU and US Associates Program & Amazon Services LLC Associates, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk & Amazon.coms\n\n{Jackson's PC Build}\nCpu: AMD Ryzen 7 5800x\nGPU: RTX 2080 Super\nRam: 32GB Crucial RGB\nHDD: 4 Tb 7200Rpm, 500GB NVMe SSD\n\n{Matt's PC Build}\nCpu: AMD Ryzen 7 5800x\nGpu: RTX 2080 Super\nRam: 32Gb DDR4\nSSD - 1TB NVME \nHDD - 1TB HDD"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "121530501",
+            "subscriberCount": "538000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1262"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "gukgbTR-2Ip5Jfjps6RPHfq-VKU",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "9DXovN4Bn5o"
+          },
+          "snippet": {
+            "publishedAt": "2023-04-25T23:11:50Z",
+            "channelId": "UCvWWf-LYjaujE50iYai8WgQ",
+            "title": "How To Build a $3000-$5000 High-End Gaming PC - Step-by-Step Guide",
+            "description": "How To Build a $3000-$5000 High-End Gaming PC - Step-by-Step Guide ⇨ This Video is Sponsored by Micro Center!",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/9DXovN4Bn5o/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/9DXovN4Bn5o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/9DXovN4Bn5o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Paul's Hardware",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-04-25T23:11:50Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "INTP5ZfYF9ojvwm84bdpRgeRlJ8",
+          "id": "UCvWWf-LYjaujE50iYai8WgQ",
+          "snippet": {
+            "title": "Paul's Hardware",
+            "description": "Tech reviews, tutorials, PC hardware and do-it-yourself computer building are my favorite things, so that's what I make videos about. \n\n",
+            "customUrl": "@paulshardware",
+            "publishedAt": "2012-06-30T00:43:23Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/0QzUvrT-tbKhXqhSkqiFyYE774-ryEFNqU6WyNQSKudQO1ewjsb7sAT6U4FlK0dLI5nBtGtZXA=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/0QzUvrT-tbKhXqhSkqiFyYE774-ryEFNqU6WyNQSKudQO1ewjsb7sAT6U4FlK0dLI5nBtGtZXA=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/0QzUvrT-tbKhXqhSkqiFyYE774-ryEFNqU6WyNQSKudQO1ewjsb7sAT6U4FlK0dLI5nBtGtZXA=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Paul's Hardware",
+              "description": "Tech reviews, tutorials, PC hardware and do-it-yourself computer building are my favorite things, so that's what I make videos about. \n\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "252047634",
+            "subscriberCount": "1450000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1422"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "afTh-gbrlZ1xWHSj_KUJdqjR4pQ",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "ExDoCYIuFpM"
+          },
+          "snippet": {
+            "publishedAt": "2023-03-24T14:00:16Z",
+            "channelId": "UCStk7sZhuFJhxdvyXksdj5Q",
+            "title": "Build the Best $800 Gaming PC - 2023",
+            "description": "How to Build an AMD Radeon RX 6650 XT & intel i5 12400F Gaming PC Full Guide Games tested Warzone 2, Apex, Valorant, ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/ExDoCYIuFpM/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/ExDoCYIuFpM/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/ExDoCYIuFpM/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "CRATER",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-03-24T14:00:16Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "lMNEgabA-3VFrDRSHRiS9T9AtZk",
+          "id": "UCStk7sZhuFJhxdvyXksdj5Q",
+          "snippet": {
+            "title": "CRATER",
+            "description": "",
+            "customUrl": "@craterhq",
+            "publishedAt": "2013-03-30T04:45:32Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/2J5jbTD7h95FzO3qBVewb-e0ffO5Rt0XISTnBvAg2R7WUVbbhi_ebdMy1ffIxLzYWQq-w3oGzg=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/2J5jbTD7h95FzO3qBVewb-e0ffO5Rt0XISTnBvAg2R7WUVbbhi_ebdMy1ffIxLzYWQq-w3oGzg=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/2J5jbTD7h95FzO3qBVewb-e0ffO5Rt0XISTnBvAg2R7WUVbbhi_ebdMy1ffIxLzYWQq-w3oGzg=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "CRATER",
+              "description": ""
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "100094967",
+            "subscriberCount": "839000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "104"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "QtYMuc_u1HGDEQcjsIL2AzFAkJI",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "Smw3FcZewaU"
+          },
+          "snippet": {
+            "publishedAt": "2023-03-25T16:00:26Z",
+            "channelId": "UCLMhTJ4vk2dR1dkiE5Uwibg",
+            "title": "Building My First Gaming PC with No Experience... [White Aesthetic]",
+            "description": "My first PC build ever! A white build (besides the GPU ) with a Ryzen 9 5900X, RTX 3090 Ti FTW3, 64 GB's of ram, 3 TB of ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Smw3FcZewaU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Smw3FcZewaU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Smw3FcZewaU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "MJJ Tech",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-03-25T16:00:26Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "1pTGUh0FLbabEMq4h9JQbL-StdY",
+          "id": "UCLMhTJ4vk2dR1dkiE5Uwibg",
+          "snippet": {
+            "title": "MJJ Tech",
+            "description": "I have 3 first names and I make tech vids broh",
+            "customUrl": "@mjjtech",
+            "publishedAt": "2023-01-25T04:31:41.611578Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/kmM-wya1n97ICtt6GYiYBPfq3JAWlqIdu0gOQgqtDSbISyyae63Q51EIb7KOSsZaGXdHYBXu=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/kmM-wya1n97ICtt6GYiYBPfq3JAWlqIdu0gOQgqtDSbISyyae63Q51EIb7KOSsZaGXdHYBXu=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/kmM-wya1n97ICtt6GYiYBPfq3JAWlqIdu0gOQgqtDSbISyyae63Q51EIb7KOSsZaGXdHYBXu=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "MJJ Tech",
+              "description": "I have 3 first names and I make tech vids broh"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "592647",
+            "subscriberCount": "5660",
+            "hiddenSubscriberCount": false,
+            "videoCount": "4"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "IEfwiVAYBr50C2kWj5rD6zB-joI",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "diCTyMtC5-k"
+          },
+          "snippet": {
+            "publishedAt": "2023-02-26T20:40:06Z",
+            "channelId": "UCq62rsLFmZ5QxJ-xjhRqgFg",
+            "title": "ULTIMATE RTX 4090 Gaming PC ($4,372)",
+            "description": "USE CODE XEN TO SAVE ON YOUR ORDER: https://brparadox.com/?ref=xen Jesus Is King   Have a Great Day ❤️ Thumbnail ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/diCTyMtC5-k/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/diCTyMtC5-k/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/diCTyMtC5-k/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Vermax",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-02-26T20:40:06Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "j0U9os9sqECBqD6e6YvXhfJpZPQ",
+          "id": "UCq62rsLFmZ5QxJ-xjhRqgFg",
+          "snippet": {
+            "title": "Vermax",
+            "description": "Jesus Is King 👑 • Content Creator For Xen\n\nSOCIALS 👉 https://solo.to/vermax\n",
+            "customUrl": "@vermax",
+            "publishedAt": "2018-06-10T00:31:11Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/yHFj_qof_m8nag9Zw-CX8GDW7tgXesUyakigU8-JIwZMW0TmOHYKF3Z8N-FFBCkMLXBErVJQ8w=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/yHFj_qof_m8nag9Zw-CX8GDW7tgXesUyakigU8-JIwZMW0TmOHYKF3Z8N-FFBCkMLXBErVJQ8w=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/yHFj_qof_m8nag9Zw-CX8GDW7tgXesUyakigU8-JIwZMW0TmOHYKF3Z8N-FFBCkMLXBErVJQ8w=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Vermax",
+              "description": "Jesus Is King 👑 • Content Creator For Xen\n\nSOCIALS 👉 https://solo.to/vermax\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "73983420",
+            "subscriberCount": "374000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "580"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "-Fe9UVoNxODy05cJuzBlJNqFL5k",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "yRcFM1XAL_Q"
+          },
+          "snippet": {
+            "publishedAt": "2022-06-10T19:18:32Z",
+            "channelId": "UCT9CJkrdmTnZ-M5xns9chXQ",
+            "title": "EPIC $5,000 PC Build Time Lapse - Thermaltake Core P6",
+            "description": "Want to see another build like this? Click here! https://youtu.be/G3Ru8TcmNFI Links to parts: US: ✓ Mini PC screen (in case): ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/yRcFM1XAL_Q/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/yRcFM1XAL_Q/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/yRcFM1XAL_Q/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Tech Tesseract",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-06-10T19:18:32Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "6Ea7Z2Cbu9mpOC0BkLXkxC1qEPQ",
+          "id": "UCT9CJkrdmTnZ-M5xns9chXQ",
+          "snippet": {
+            "title": "Tech Tesseract",
+            "description": "Welcome to our channel! Featuring Josh and Brittany, the nerdy tech couple that dabbles in anything Tech related! You'll find everything from reviews, to vlogs, to PC builds - Come join our community!",
+            "customUrl": "@techtesseract",
+            "publishedAt": "2016-07-04T20:06:57Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/9QtxfAQTGWrU_NOQ_vaBP9zvctrpWnxPEY-Eyu9Qw2HOhYGM4EEOBNMkWuhrmT-hG-qNDWGIEH0=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/9QtxfAQTGWrU_NOQ_vaBP9zvctrpWnxPEY-Eyu9Qw2HOhYGM4EEOBNMkWuhrmT-hG-qNDWGIEH0=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/9QtxfAQTGWrU_NOQ_vaBP9zvctrpWnxPEY-Eyu9Qw2HOhYGM4EEOBNMkWuhrmT-hG-qNDWGIEH0=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Tech Tesseract",
+              "description": "Welcome to our channel! Featuring Josh and Brittany, the nerdy tech couple that dabbles in anything Tech related! You'll find everything from reviews, to vlogs, to PC builds - Come join our community!"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "34642881",
+            "subscriberCount": "180000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "308"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "PG55q4Xerx0R0ovHi_UyW92epsk",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "aMV-7gVKta8"
+          },
+          "snippet": {
+            "publishedAt": "2021-11-10T10:26:37Z",
+            "channelId": "UCT6e73e0M6_YoGD_p77z_zQ",
+            "title": "「BRO」4K PC Build | FIRST BLOOD🔪 CORSAIR 1000D With 34 Unit Fan. 海盗船 1000D #1000D",
+            "description": "Cost About 28K+ USD can chat with BRO Discord https://discord.com/invite/zMAWTRunkW Cpu : AMD R9 5950X Mainboard ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/aMV-7gVKta8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/aMV-7gVKta8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/aMV-7gVKta8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "BRO COOLING",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-11-10T10:26:37Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "IMoxHCfutelDN1cQXp2eSOjZeZk",
+          "id": "UCT6e73e0M6_YoGD_p77z_zQ",
+          "snippet": {
+            "title": "BRO COOLING",
+            "description": "YouTube Official Channel - BRO COOLING (BRO兄弟水冷)\nYouTube唯一官方频道- BRO COOLING( BRO兄弟水冷)，更多咨询请关注微信公众号：BRO兄弟水冷\nYouTube Sub Channel - BRO COOLING Sub\nAny Order Can Chat With BRO Discord - https://discord.com/invite/zMAWTRunkW\n\n",
+            "customUrl": "@brocooling",
+            "publishedAt": "2019-07-03T12:33:16Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/iM8YLdk4s-Amzy7MnIxUpKerNVvPsUS3Uz75XACo_dfQhIrcM16IoAk63C6RYKTl93Zs3lnnlio=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/iM8YLdk4s-Amzy7MnIxUpKerNVvPsUS3Uz75XACo_dfQhIrcM16IoAk63C6RYKTl93Zs3lnnlio=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/iM8YLdk4s-Amzy7MnIxUpKerNVvPsUS3Uz75XACo_dfQhIrcM16IoAk63C6RYKTl93Zs3lnnlio=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "defaultLanguage": "zh-CN",
+            "localized": {
+              "title": "BRO COOLING",
+              "description": "YouTube Official Channel - BRO COOLING (BRO兄弟水冷)\nYouTube唯一官方频道- BRO COOLING( BRO兄弟水冷)，更多咨询请关注微信公众号：BRO兄弟水冷\nYouTube Sub Channel - BRO COOLING Sub\nAny Order Can Chat With BRO Discord - https://discord.com/invite/zMAWTRunkW\n\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "16819296",
+            "subscriberCount": "126000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "70"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "3NT-yjhOs0-S_WXkyHwkfT0-eJA",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "f681mCfDdK0"
+          },
+          "snippet": {
+            "publishedAt": "2023-05-25T17:26:03Z",
+            "channelId": "UCPvRdfUooqCf0zPOYvbBzVA",
+            "title": "what&#39;s the cheapest PC you can build at Micro Center? #shorts",
+            "description": "grab this coupon for an Ender 3 S1 3D printer for $199! https://micro.center/YEE012 parts list for this PC build: ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/f681mCfDdK0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/f681mCfDdK0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/f681mCfDdK0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "mryeester",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-25T17:26:03Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "x94rNZS8XhLceg4aBpkU1k87nr0",
+          "id": "UCPvRdfUooqCf0zPOYvbBzVA",
+          "snippet": {
+            "title": "mryeester",
+            "description": "I tinker with tech! \n\nwww.mryeester.com\nwww.yeesterpaste.com\n\nThanks for stopping by!\n\nOwned and operated by Adam Yee @mryeester\n",
+            "customUrl": "@mryeester",
+            "publishedAt": "2020-02-27T19:43:10.612886Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/0GVFDL5wCLgnL3C15-YxWiNy_3bR8-bzjt-4fpJJNGBcgXiAqkM5-mIMDYAbGZqHu4Kcjkpy=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/0GVFDL5wCLgnL3C15-YxWiNy_3bR8-bzjt-4fpJJNGBcgXiAqkM5-mIMDYAbGZqHu4Kcjkpy=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/0GVFDL5wCLgnL3C15-YxWiNy_3bR8-bzjt-4fpJJNGBcgXiAqkM5-mIMDYAbGZqHu4Kcjkpy=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "mryeester",
+              "description": "I tinker with tech! \n\nwww.mryeester.com\nwww.yeesterpaste.com\n\nThanks for stopping by!\n\nOwned and operated by Adam Yee @mryeester\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "1098717368",
+            "subscriberCount": "934000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "552"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "u4FG5PEFhO22xtFn-IwlTVCI4og",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "T-8FWaWbafA"
+          },
+          "snippet": {
+            "publishedAt": "2023-05-12T18:00:11Z",
+            "channelId": "UCBS1NUWY7oC6FFHaXQy4zAA",
+            "title": "EASY $700 Gaming PC Build (All New Parts)",
+            "description": "Try Recoverit to recover lost files for FREE here: https://bit.ly/3VCgmjH ▻ Buy my PC builds: https://zttbuilds.com ▻ Let me help ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/T-8FWaWbafA/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/T-8FWaWbafA/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/T-8FWaWbafA/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Zach's Tech Turf",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-12T18:00:11Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "jTThln9zjOAqqGIoQhMz74HRiuU",
+          "id": "UCBS1NUWY7oC6FFHaXQy4zAA",
+          "snippet": {
+            "title": "Zach's Tech Turf",
+            "description": "The PC building channel for people with busy lives! Creating PC building, benchmarking, and setup guide videos the way I personally like to watch videos, quick and to the point!\n\nHere at Zach's Tech Turf I'm all about delivering only the essential information that you need to purchase and build your first gaming PC, make some money with your next gaming PC flip, or whatever other PC hardware needs you may have! \n\nI also live stream all of my gaming PC builds over on my Twitch channel (link below) and I'm VERY active in my Discord community, we would love to have you.",
+            "customUrl": "@zachstechturf",
+            "publishedAt": "2015-04-26T00:35:30Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP0lokT8Sl0k09CYS6GN2M2p07nY1ZHhjiLhNKZh3A=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP0lokT8Sl0k09CYS6GN2M2p07nY1ZHhjiLhNKZh3A=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP0lokT8Sl0k09CYS6GN2M2p07nY1ZHhjiLhNKZh3A=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Zach's Tech Turf",
+              "description": "The PC building channel for people with busy lives! Creating PC building, benchmarking, and setup guide videos the way I personally like to watch videos, quick and to the point!\n\nHere at Zach's Tech Turf I'm all about delivering only the essential information that you need to purchase and build your first gaming PC, make some money with your next gaming PC flip, or whatever other PC hardware needs you may have! \n\nI also live stream all of my gaming PC builds over on my Twitch channel (link below) and I'm VERY active in my Discord community, we would love to have you."
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "59891944",
+            "subscriberCount": "246000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "854"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "ihEacM-6l-9ORPro6tthc1kd7Cc",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "FZrgKcIzeOs"
+          },
+          "snippet": {
+            "publishedAt": "2023-06-01T14:00:07Z",
+            "channelId": "UC0uAeNHLLuAovOTHI-aOZiQ",
+            "title": "‎️‍🔥 Insane Value! ‎️‍🔥 Best Ryzen 7600 Gaming PC Build 2023 | RAM, GPU, Motherboard",
+            "description": "Sponsor: Squarespace http://www.squarespace.com/pcbuilder for a free trial & 10% off your first purchase. Best Ryzen 7600 ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/FZrgKcIzeOs/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/FZrgKcIzeOs/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/FZrgKcIzeOs/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "PC Builder",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-06-01T14:00:07Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "3Yp1qhQEy5-E0aHrGFK4_qCzt8M",
+          "id": "UC0uAeNHLLuAovOTHI-aOZiQ",
+          "snippet": {
+            "title": "PC Builder",
+            "description": "Want to have fun and get the best price to performance in your PC Build? From new builders to pros, you've come to the right place! We'll have builds for the hardcore gamer, creative video editor, and everyday user. We'll cover trends, new products, and random building fun! And beyond the best pc build, if you are looking for the best gaming monitor, best gaming laptop, or DIYPC industry news such as GPU prices coming down, we cover that content as well. ",
+            "customUrl": "@pcbuilderchannel",
+            "publishedAt": "2019-11-17T19:43:28.274793Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMdbHpVKysS9cKE8AIYxul0SQd0oZasPYThpeZo=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMdbHpVKysS9cKE8AIYxul0SQd0oZasPYThpeZo=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMdbHpVKysS9cKE8AIYxul0SQd0oZasPYThpeZo=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "PC Builder",
+              "description": "Want to have fun and get the best price to performance in your PC Build? From new builders to pros, you've come to the right place! We'll have builds for the hardcore gamer, creative video editor, and everyday user. We'll cover trends, new products, and random building fun! And beyond the best pc build, if you are looking for the best gaming monitor, best gaming laptop, or DIYPC industry news such as GPU prices coming down, we cover that content as well. "
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "38601949",
+            "subscriberCount": "315000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "217"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "NsUx8fC4b83YbYx5-tn6Nhj-fMI",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "Hab7VrSqm8Y"
+          },
+          "snippet": {
+            "publishedAt": "2023-05-27T16:47:53Z",
+            "channelId": "UCPvRdfUooqCf0zPOYvbBzVA",
+            "title": "the cheapest way to build a PC #shorts",
+            "description": "grab this coupon for an Ender 3 S1 3D printer for $199! https://micro.center/YEE012 parts list for this PC build: ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Hab7VrSqm8Y/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Hab7VrSqm8Y/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Hab7VrSqm8Y/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "mryeester",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-27T16:47:53Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "x94rNZS8XhLceg4aBpkU1k87nr0",
+          "id": "UCPvRdfUooqCf0zPOYvbBzVA",
+          "snippet": {
+            "title": "mryeester",
+            "description": "I tinker with tech! \n\nwww.mryeester.com\nwww.yeesterpaste.com\n\nThanks for stopping by!\n\nOwned and operated by Adam Yee @mryeester\n",
+            "customUrl": "@mryeester",
+            "publishedAt": "2020-02-27T19:43:10.612886Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/0GVFDL5wCLgnL3C15-YxWiNy_3bR8-bzjt-4fpJJNGBcgXiAqkM5-mIMDYAbGZqHu4Kcjkpy=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/0GVFDL5wCLgnL3C15-YxWiNy_3bR8-bzjt-4fpJJNGBcgXiAqkM5-mIMDYAbGZqHu4Kcjkpy=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/0GVFDL5wCLgnL3C15-YxWiNy_3bR8-bzjt-4fpJJNGBcgXiAqkM5-mIMDYAbGZqHu4Kcjkpy=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "mryeester",
+              "description": "I tinker with tech! \n\nwww.mryeester.com\nwww.yeesterpaste.com\n\nThanks for stopping by!\n\nOwned and operated by Adam Yee @mryeester\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "1098717368",
+            "subscriberCount": "934000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "552"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "OV7k57f0gDo3KDyvEltRkrhr_7U",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "IqZ0pN8Ysvw"
+          },
+          "snippet": {
+            "publishedAt": "2023-06-10T01:01:24Z",
+            "channelId": "UCmWNCO9wSjzOz1UV8jCvIHA",
+            "title": "LIVE - The RUBIKS CUBE computer build featuring the lingyun Cube Computer Case Micro-ATX/Mini-ITX",
+            "description": "LIVE - The RUBIKS CUBE computer build featuring the lingyun Cube Computer Case Micro-ATX/Mini-ITX Case: ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/IqZ0pN8Ysvw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/IqZ0pN8Ysvw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/IqZ0pN8Ysvw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "CareyHolzman",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-06-10T01:01:24Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "FDYNxyRIJCFj2PfQdVqZRcC3FLg",
+          "id": "UCmWNCO9wSjzOz1UV8jCvIHA",
+          "snippet": {
+            "title": "CareyHolzman",
+            "description": "For business inquiries, please contact ShowcaseCreate@gmail.com\n\n\n\n",
+            "customUrl": "@careyholzman",
+            "publishedAt": "2008-01-24T06:03:59Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqOLsdGCCuyA0UwQvLdFuZ7ZUqD6NPI0yisvpyXI=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqOLsdGCCuyA0UwQvLdFuZ7ZUqD6NPI0yisvpyXI=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqOLsdGCCuyA0UwQvLdFuZ7ZUqD6NPI0yisvpyXI=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "CareyHolzman",
+              "description": "For business inquiries, please contact ShowcaseCreate@gmail.com\n\n\n\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "68586252",
+            "subscriberCount": "381000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1576"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "fRyV6bMI9DaEmWgvS0Mol3CZQ6g",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "g8YmWEsZmow"
+          },
+          "snippet": {
+            "publishedAt": "2023-02-14T17:00:34Z",
+            "channelId": "UCK0OlKgFirAfbBYe0qsYUag",
+            "title": "$300 PC Build 100 fps??? Clean #shorts",
+            "description": "SUB 4 GOOD LUCK ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/g8YmWEsZmow/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/g8YmWEsZmow/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/g8YmWEsZmow/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Chillrogg 📱",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-02-14T17:00:34Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "Vmnstannot3kaC3RDx97KZot2Jk",
+          "id": "UCK0OlKgFirAfbBYe0qsYUag",
+          "snippet": {
+            "title": "Chillrogg 📱",
+            "description": "✘ Cleanest Gaming Setups ⌬ Newest TechッVideo Games. Subscribe for a cookie :)",
+            "customUrl": "@chillrogg",
+            "publishedAt": "2015-10-22T02:29:34Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ieeMbBCCiXMfvW6toLhxhPlRvtjSQXSC22M7mdkEmhyxNznF_EcSexWmyCg_XUtBu97BUY02ug=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ieeMbBCCiXMfvW6toLhxhPlRvtjSQXSC22M7mdkEmhyxNznF_EcSexWmyCg_XUtBu97BUY02ug=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ieeMbBCCiXMfvW6toLhxhPlRvtjSQXSC22M7mdkEmhyxNznF_EcSexWmyCg_XUtBu97BUY02ug=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Chillrogg 📱",
+              "description": "✘ Cleanest Gaming Setups ⌬ Newest TechッVideo Games. Subscribe for a cookie :)"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "6714145",
+            "subscriberCount": "31500",
+            "hiddenSubscriberCount": false,
+            "videoCount": "365"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "wxWhXbNwlmpUQxciKP7eG8ftubI",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "AShjrkoZTrc"
+          },
+          "snippet": {
+            "publishedAt": "2022-12-19T14:00:03Z",
+            "channelId": "UCStk7sZhuFJhxdvyXksdj5Q",
+            "title": "Build the Best $600 Gaming PC - 2023",
+            "description": "How to Build an AMD Radeon RX 6600 & Ryzen 5 5500 Gaming PC Full Guide Games tested Warzone 2, Apex, Valorant, Fortnite ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/AShjrkoZTrc/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/AShjrkoZTrc/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/AShjrkoZTrc/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "CRATER",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-12-19T14:00:03Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "lMNEgabA-3VFrDRSHRiS9T9AtZk",
+          "id": "UCStk7sZhuFJhxdvyXksdj5Q",
+          "snippet": {
+            "title": "CRATER",
+            "description": "",
+            "customUrl": "@craterhq",
+            "publishedAt": "2013-03-30T04:45:32Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/2J5jbTD7h95FzO3qBVewb-e0ffO5Rt0XISTnBvAg2R7WUVbbhi_ebdMy1ffIxLzYWQq-w3oGzg=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/2J5jbTD7h95FzO3qBVewb-e0ffO5Rt0XISTnBvAg2R7WUVbbhi_ebdMy1ffIxLzYWQq-w3oGzg=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/2J5jbTD7h95FzO3qBVewb-e0ffO5Rt0XISTnBvAg2R7WUVbbhi_ebdMy1ffIxLzYWQq-w3oGzg=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "CRATER",
+              "description": ""
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "100094967",
+            "subscriberCount": "839000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "104"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "A8MEOgZRzx_mpPH8S-m65ueQfe0",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "7nT4OJWq15s"
+          },
+          "snippet": {
+            "publishedAt": "2023-05-30T07:15:42Z",
+            "channelId": "UCT6e73e0M6_YoGD_p77z_zQ",
+            "title": "「BRO」4K PC Build Silverstone TJ07 Re-engraved Limited Edition Time Travel 银欣TJ07復刻版 COMPUTEX 2023",
+            "description": "Cost About 8.5K USD can chat with BRO Discord https://discord.com/invite/zMAWTRunkW Cpu : AMD RYZEN 9 7900X Mainboard ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/7nT4OJWq15s/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/7nT4OJWq15s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/7nT4OJWq15s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "BRO COOLING",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-30T07:15:42Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "IMoxHCfutelDN1cQXp2eSOjZeZk",
+          "id": "UCT6e73e0M6_YoGD_p77z_zQ",
+          "snippet": {
+            "title": "BRO COOLING",
+            "description": "YouTube Official Channel - BRO COOLING (BRO兄弟水冷)\nYouTube唯一官方频道- BRO COOLING( BRO兄弟水冷)，更多咨询请关注微信公众号：BRO兄弟水冷\nYouTube Sub Channel - BRO COOLING Sub\nAny Order Can Chat With BRO Discord - https://discord.com/invite/zMAWTRunkW\n\n",
+            "customUrl": "@brocooling",
+            "publishedAt": "2019-07-03T12:33:16Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/iM8YLdk4s-Amzy7MnIxUpKerNVvPsUS3Uz75XACo_dfQhIrcM16IoAk63C6RYKTl93Zs3lnnlio=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/iM8YLdk4s-Amzy7MnIxUpKerNVvPsUS3Uz75XACo_dfQhIrcM16IoAk63C6RYKTl93Zs3lnnlio=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/iM8YLdk4s-Amzy7MnIxUpKerNVvPsUS3Uz75XACo_dfQhIrcM16IoAk63C6RYKTl93Zs3lnnlio=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "defaultLanguage": "zh-CN",
+            "localized": {
+              "title": "BRO COOLING",
+              "description": "YouTube Official Channel - BRO COOLING (BRO兄弟水冷)\nYouTube唯一官方频道- BRO COOLING( BRO兄弟水冷)，更多咨询请关注微信公众号：BRO兄弟水冷\nYouTube Sub Channel - BRO COOLING Sub\nAny Order Can Chat With BRO Discord - https://discord.com/invite/zMAWTRunkW\n\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "16819296",
+            "subscriberCount": "126000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "70"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "1yyI8k6lmJxWSEu-d-eGc9DyXw8",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "-8LMML_EiMg"
+          },
+          "snippet": {
+            "publishedAt": "2021-01-22T23:00:01Z",
+            "channelId": "UCkWQ0gDrqOCarmUKmppD7GQ",
+            "title": "Common PC Building Mistakes that Beginners Make!",
+            "description": "Here are the most common PC Building mistakes I see when people are building their first PCs! Don't let these happen to you!",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/-8LMML_EiMg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/-8LMML_EiMg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/-8LMML_EiMg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "JayzTwoCents",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-01-22T23:00:01Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "Qa78xzs8PmUo98HyJ7FgxZ9IUwA",
+          "id": "UCkWQ0gDrqOCarmUKmppD7GQ",
+          "snippet": {
+            "title": "JayzTwoCents",
+            "description": "Here at JayzTwoCents we strive to create informed and intelligent buyers when it comes to PC building. Whether it be computers, components, or how-to content, you will leave with more confidence in your ability to troubleshoot, fix and build your next PC! ",
+            "customUrl": "@jayztwocents",
+            "publishedAt": "2012-08-26T20:24:44Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/EAJTcRmRdv3plIT4zRJlyWRnf4cS_zVt6YVtSZ39hQ4ryApK0ZPLEi0YFKdW-eCy6X0CATq9=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/EAJTcRmRdv3plIT4zRJlyWRnf4cS_zVt6YVtSZ39hQ4ryApK0ZPLEi0YFKdW-eCy6X0CATq9=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/EAJTcRmRdv3plIT4zRJlyWRnf4cS_zVt6YVtSZ39hQ4ryApK0ZPLEi0YFKdW-eCy6X0CATq9=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "JayzTwoCents",
+              "description": "Here at JayzTwoCents we strive to create informed and intelligent buyers when it comes to PC building. Whether it be computers, components, or how-to content, you will leave with more confidence in your ability to troubleshoot, fix and build your next PC! "
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "990000405",
+            "subscriberCount": "3900000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2037"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "jfCow3svd8xPHOf8SLSTrU6RZJg",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "yxyb1s1cM84"
+          },
+          "snippet": {
+            "publishedAt": "2023-04-28T20:11:48Z",
+            "channelId": "UCq62rsLFmZ5QxJ-xjhRqgFg",
+            "title": "I Built My Brother A NEW Gaming PC...",
+            "description": "Install Raid for Free ✓ IOS/ANDROID/PC: https://clcr.me/Vermax and get a special starter pack with an Epic champion ⚡️Kellan ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/yxyb1s1cM84/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/yxyb1s1cM84/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/yxyb1s1cM84/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Vermax",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-04-28T20:11:48Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "j0U9os9sqECBqD6e6YvXhfJpZPQ",
+          "id": "UCq62rsLFmZ5QxJ-xjhRqgFg",
+          "snippet": {
+            "title": "Vermax",
+            "description": "Jesus Is King 👑 • Content Creator For Xen\n\nSOCIALS 👉 https://solo.to/vermax\n",
+            "customUrl": "@vermax",
+            "publishedAt": "2018-06-10T00:31:11Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/yHFj_qof_m8nag9Zw-CX8GDW7tgXesUyakigU8-JIwZMW0TmOHYKF3Z8N-FFBCkMLXBErVJQ8w=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/yHFj_qof_m8nag9Zw-CX8GDW7tgXesUyakigU8-JIwZMW0TmOHYKF3Z8N-FFBCkMLXBErVJQ8w=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/yHFj_qof_m8nag9Zw-CX8GDW7tgXesUyakigU8-JIwZMW0TmOHYKF3Z8N-FFBCkMLXBErVJQ8w=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Vermax",
+              "description": "Jesus Is King 👑 • Content Creator For Xen\n\nSOCIALS 👉 https://solo.to/vermax\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "73983420",
+            "subscriberCount": "374000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "580"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "kj-zZfvM2joltophs6glc4Etj8w",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "gdc-m1nZn7o"
+          },
+          "snippet": {
+            "publishedAt": "2023-03-26T18:45:01Z",
+            "channelId": "UC6Jxh95N32m1JvKG_-fQ6QQ",
+            "title": "A simple, cozy $400 gaming PC 💚 (new!)",
+            "description": "An easy breezy lemon squeezy PC if you're on a budget. Thanks Micro Center for helping! New Customer Exclusive – Free ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/gdc-m1nZn7o/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/gdc-m1nZn7o/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/gdc-m1nZn7o/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "OzTalksHW",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-03-26T18:45:01Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "hG4d27RJOa_4xHXfzUYOTMkbkv4",
+          "id": "UC6Jxh95N32m1JvKG_-fQ6QQ",
+          "snippet": {
+            "title": "OzTalksHW",
+            "description": "",
+            "customUrl": "@oztalkshw",
+            "publishedAt": "2015-10-14T20:09:18Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPU6mfMD35jvN1oEOSRFCCvKPI2nOB2hcCCcQGsxQ=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPU6mfMD35jvN1oEOSRFCCvKPI2nOB2hcCCcQGsxQ=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPU6mfMD35jvN1oEOSRFCCvKPI2nOB2hcCCcQGsxQ=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "OzTalksHW",
+              "description": ""
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "41641521",
+            "subscriberCount": "371000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "220"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "38jlgUdS2Els3qtwKWSdGI8oquw",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "dWQ_obw3O3A"
+          },
+          "snippet": {
+            "publishedAt": "2023-06-01T03:55:54Z",
+            "channelId": "UC1n1kPQcb9AZTJMn15Mxr4g",
+            "title": "The Best $1500 Gaming PC Build. Updated: June 2023",
+            "description": "The Best $1500 PC Build for June 2023 Full Update: https://newbcomputerbuild.com/the-best-1500-gaming-pc-build-2023/ ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/dWQ_obw3O3A/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/dWQ_obw3O3A/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/dWQ_obw3O3A/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Newb Computer Build",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-06-01T03:55:54Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "_tJni8QALas7osKkMM0pGXK0qwo",
+          "id": "UC1n1kPQcb9AZTJMn15Mxr4g",
+          "snippet": {
+            "title": "Newb Computer Build",
+            "description": "Newb Computer Build - https://newbcomputerbuild.com is all about PC Gaming & Hardware information. Including PC Builds, gaming news, gaming requirements and anything related to making sure you have the right gear to play the games you want.",
+            "customUrl": "@newbcomputerbuild",
+            "publishedAt": "2011-07-26T21:27:00Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMPSK-k9H-efaVIIkcSJfIbfs-lVKl8sAGvjDWC0w=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMPSK-k9H-efaVIIkcSJfIbfs-lVKl8sAGvjDWC0w=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMPSK-k9H-efaVIIkcSJfIbfs-lVKl8sAGvjDWC0w=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Newb Computer Build",
+              "description": "Newb Computer Build - https://newbcomputerbuild.com is all about PC Gaming & Hardware information. Including PC Builds, gaming news, gaming requirements and anything related to making sure you have the right gear to play the games you want."
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "908643",
+            "subscriberCount": "2460",
+            "hiddenSubscriberCount": false,
+            "videoCount": "238"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "xZreLZJ2G2oqFvrTZgGgK6KOkeg",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "Wbl--zxnlAU"
+          },
+          "snippet": {
+            "publishedAt": "2022-11-22T00:32:11Z",
+            "channelId": "UC_h-Jl4Zxb7p-sSBTxprs4Q",
+            "title": "build my PC with me (step-by-step ITX build) #shorts",
+            "description": "build my ITX PC with me! this has got to be my MOST highly requested video! I hope this answers all of your questions on how I ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Wbl--zxnlAU/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Wbl--zxnlAU/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Wbl--zxnlAU/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Maisy Leigh",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-11-22T00:32:11Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "umyXZDVCD0y968YYJmT76P0z29o",
+          "id": "UC_h-Jl4Zxb7p-sSBTxprs4Q",
+          "snippet": {
+            "title": "Maisy Leigh",
+            "description": "Hi! I'm Maisy, and I'm the creator & visionary behind Cozyleigh Studios, and a Youtuber sharing my cozy productive lifestyle!  I'm sharing my creative endeavors, design & engineering projects, and my cozy life & cozy home.\n\nCozy Productive Lifestyle Content, Tech & Desk Setup Inspiration\nFollow me on IG for more: https://instagram.com/maisyleigh\nMore info on desk setup & product links: https://liinks.co/maisyleigh\nShop my studio https://cozyleigh.studio\n\n🍃 Wallpapers & Art by https://instagram.com/mysweetchubs🎈\n\n",
+            "customUrl": "@maisyleigh",
+            "publishedAt": "2011-09-30T11:47:17Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/c1WGLlQiZfJDipxM94tyNt46FIouyiDtHmNfuESLH4uRUV6stYHJGnb6sxnX9p5iBDd-eHgC=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/c1WGLlQiZfJDipxM94tyNt46FIouyiDtHmNfuESLH4uRUV6stYHJGnb6sxnX9p5iBDd-eHgC=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/c1WGLlQiZfJDipxM94tyNt46FIouyiDtHmNfuESLH4uRUV6stYHJGnb6sxnX9p5iBDd-eHgC=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Maisy Leigh",
+              "description": "Hi! I'm Maisy, and I'm the creator & visionary behind Cozyleigh Studios, and a Youtuber sharing my cozy productive lifestyle!  I'm sharing my creative endeavors, design & engineering projects, and my cozy life & cozy home.\n\nCozy Productive Lifestyle Content, Tech & Desk Setup Inspiration\nFollow me on IG for more: https://instagram.com/maisyleigh\nMore info on desk setup & product links: https://liinks.co/maisyleigh\nShop my studio https://cozyleigh.studio\n\n🍃 Wallpapers & Art by https://instagram.com/mysweetchubs🎈\n\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "58631540",
+            "subscriberCount": "443000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "186"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "ZbRT1bIjjsmFXOi4TkdqFC6YW28",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "1WabeNBfDn4"
+          },
+          "snippet": {
+            "publishedAt": "2023-05-30T02:30:01Z",
+            "channelId": "UCxVNTYSYaBXIqhhEURbYZLA",
+            "title": "Gaming PC Build Won’t Boot! Let’s Fix It! #shorts #pc #pcrepair #pcgaming #pcbuilding",
+            "description": "",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/1WabeNBfDn4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/1WabeNBfDn4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/1WabeNBfDn4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Matt's Computer Services",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-30T02:30:01Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "azTHOqw4avYlOzs7ZzwLfO1eYT0",
+          "id": "UCxVNTYSYaBXIqhhEURbYZLA",
+          "snippet": {
+            "title": "Matt's Computer Services",
+            "description": "Matt's Computer Services is a Technology channel ran by a professional Computer Technician. You can look forward to technology reviews, industry news, comparisons, repairs and much more.\n\nAmazon Links used in videos are affiliate links used to fund our content. \n\n#shorts #tech #pc #pcrepair \n",
+            "customUrl": "@mattscomputerservices",
+            "publishedAt": "2018-05-21T22:49:55Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/L4CmnQH8dcG0tAeL_dMxkW50chclwxRzOGr-MvKCQPIOSiDwno-ly1xBPBa3sCJJaNz28JT0pw=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/L4CmnQH8dcG0tAeL_dMxkW50chclwxRzOGr-MvKCQPIOSiDwno-ly1xBPBa3sCJJaNz28JT0pw=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/L4CmnQH8dcG0tAeL_dMxkW50chclwxRzOGr-MvKCQPIOSiDwno-ly1xBPBa3sCJJaNz28JT0pw=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Matt's Computer Services",
+              "description": "Matt's Computer Services is a Technology channel ran by a professional Computer Technician. You can look forward to technology reviews, industry news, comparisons, repairs and much more.\n\nAmazon Links used in videos are affiliate links used to fund our content. \n\n#shorts #tech #pc #pcrepair \n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "13127744",
+            "subscriberCount": "19500",
+            "hiddenSubscriberCount": false,
+            "videoCount": "319"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "g84jV_rRPomsLzcodPkr6AEtSD4",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "yYSM1_q_LEg"
+          },
+          "snippet": {
+            "publishedAt": "2023-06-08T19:00:33Z",
+            "channelId": "UCwdEr_DVvYp6Maf-OTw7z_w",
+            "title": "This RTX 4070 Gaming PC is AWESOME!",
+            "description": "The RTX 4070 is a pretty pricey graphics card, but how does a gaming pc for only $1200 featuring one sound? Build This Gaming ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/yYSM1_q_LEg/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/yYSM1_q_LEg/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/yYSM1_q_LEg/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Toasty Bros",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-06-08T19:00:33Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "JWjQEGm0B0OodSYh298zIdVtoSM",
+          "id": "UCwdEr_DVvYp6Maf-OTw7z_w",
+          "snippet": {
+            "title": "Toasty Bros",
+            "description": "Here at the Toastybros, we aim to deliver quality PC hardware reviews and custom PC build guides aimed to fit a wide range of budgets and needs. PC gaming is at the core of what we create here! Check out our social medias and other YouTube channels as well as our PC selling shop PCBros.tech\n\nToastybros is a participant in the Amazon EU and US Associates Program & Amazon Services LLC Associates, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk & Amazon.coms\n\n{Jackson's PC Build}\nCpu: AMD Ryzen 7 5800x\nGPU: RTX 2080 Super\nRam: 32GB Crucial RGB\nHDD: 4 Tb 7200Rpm, 500GB NVMe SSD\n\n{Matt's PC Build}\nCpu: AMD Ryzen 7 5800x\nGpu: RTX 2080 Super\nRam: 32Gb DDR4\nSSD - 1TB NVME \nHDD - 1TB HDD",
+            "customUrl": "@toastybros",
+            "publishedAt": "2014-09-09T22:29:35Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqNErvzs7Iaw88k2zNRw-AYfwPm83YIHRMvqyabEHA=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqNErvzs7Iaw88k2zNRw-AYfwPm83YIHRMvqyabEHA=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqNErvzs7Iaw88k2zNRw-AYfwPm83YIHRMvqyabEHA=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Toasty Bros",
+              "description": "Here at the Toastybros, we aim to deliver quality PC hardware reviews and custom PC build guides aimed to fit a wide range of budgets and needs. PC gaming is at the core of what we create here! Check out our social medias and other YouTube channels as well as our PC selling shop PCBros.tech\n\nToastybros is a participant in the Amazon EU and US Associates Program & Amazon Services LLC Associates, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.co.uk & Amazon.coms\n\n{Jackson's PC Build}\nCpu: AMD Ryzen 7 5800x\nGPU: RTX 2080 Super\nRam: 32GB Crucial RGB\nHDD: 4 Tb 7200Rpm, 500GB NVMe SSD\n\n{Matt's PC Build}\nCpu: AMD Ryzen 7 5800x\nGpu: RTX 2080 Super\nRam: 32Gb DDR4\nSSD - 1TB NVME \nHDD - 1TB HDD"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "121530501",
+            "subscriberCount": "538000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1262"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "FBfcLaBv0m1b0joLIo5QJmAt64E",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "Pwd04iY0pv4"
+          },
+          "snippet": {
+            "publishedAt": "2022-11-05T04:30:11Z",
+            "channelId": "UCuNg1O1KwdoQIa82wq8D0iQ",
+            "title": "RYZEN PC Build - VGA නැතිව ලොකු Games Play කරමු 😍",
+            "description": "ආයුබෝවන් ! WELCOME ! வணக்கம் ! කොහොමද ඔයාලට ? ඔයාල හැමෝම මගේ SL PC LK Channel ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/Pwd04iY0pv4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/Pwd04iY0pv4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/Pwd04iY0pv4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "SL PC LK",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-11-05T04:30:11Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "5Kt2aLuPYOWtOSPWwNRawNSYxJw",
+          "id": "UCuNg1O1KwdoQIa82wq8D0iQ",
+          "snippet": {
+            "title": "SL PC LK",
+            "description": "ආයුබෝවන් ! WELCOME ! வணக்கம் !\n\nකොහොමද ඔයාලට ?  ඔයාල හැමෝම මගේ SL PC LK Channel එකට ආදරයෙන් පිළිගන්නවා.\n\nඉතින් SL PC LK කියන්නෙ පරිගණක තාක්ෂණය, පරිගණක දෘඩාංග හා මෘදුකාංග පිළිබද දැනුම ඒ වගේම පරිගණකයක් හරියට  හදාගන්නෙ කොහොම ද? හා ඒ ආශ්‍රිත PC BUILDS වගේම දිනෙන් දින Update වෙන Gaming ලෝකයේ නවතම තොරතුරු, Gameplay හා Gaming and Tec Live streaming කියන\n මේ හැමදේම ඔයාලට මේ Channel එකේ බලාගන්න පුළුවන් ! \n\nඉතින් අපිව Subscribe කරලා ඒ වගේම ඔය බෙල් Icon එක Click කරලා දිගටම අපි එක්ක සෙට් වෙලා ඉන්න. \n\nChannel Membership and Donations \n\nමේ ලින්ක් එකෙන් ගිහින් ඔයාලට අපේ චැනල් එකේ Membership එක ගන්න පුලුවන් !\nhttps://www.youtube.com/channel/UCuNg1O1KwdoQIa82wq8D0iQ/join\nඒ වගේම අපේ Facebook Live එක හරහා Stars Donate කිරීමෙන් හා Youtube Live Chat එක හරහා Donate කරලා \nඅපිට සප් එක දෙන්නත් ඔයාට පුළුවන් !\n\n",
+            "customUrl": "@gaiya123",
+            "publishedAt": "2020-04-26T16:49:43.359701Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP0dLbqkksNTuVwRBqPhnRVoFBBOhQrCaa5aqd0=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP0dLbqkksNTuVwRBqPhnRVoFBBOhQrCaa5aqd0=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP0dLbqkksNTuVwRBqPhnRVoFBBOhQrCaa5aqd0=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "SL PC LK",
+              "description": "ආයුබෝවන් ! WELCOME ! வணக்கம் !\n\nකොහොමද ඔයාලට ?  ඔයාල හැමෝම මගේ SL PC LK Channel එකට ආදරයෙන් පිළිගන්නවා.\n\nඉතින් SL PC LK කියන්නෙ පරිගණක තාක්ෂණය, පරිගණක දෘඩාංග හා මෘදුකාංග පිළිබද දැනුම ඒ වගේම පරිගණකයක් හරියට  හදාගන්නෙ කොහොම ද? හා ඒ ආශ්‍රිත PC BUILDS වගේම දිනෙන් දින Update වෙන Gaming ලෝකයේ නවතම තොරතුරු, Gameplay හා Gaming and Tec Live streaming කියන\n මේ හැමදේම ඔයාලට මේ Channel එකේ බලාගන්න පුළුවන් ! \n\nඉතින් අපිව Subscribe කරලා ඒ වගේම ඔය බෙල් Icon එක Click කරලා දිගටම අපි එක්ක සෙට් වෙලා ඉන්න. \n\nChannel Membership and Donations \n\nමේ ලින්ක් එකෙන් ගිහින් ඔයාලට අපේ චැනල් එකේ Membership එක ගන්න පුලුවන් !\nhttps://www.youtube.com/channel/UCuNg1O1KwdoQIa82wq8D0iQ/join\nඒ වගේම අපේ Facebook Live එක හරහා Stars Donate කිරීමෙන් හා Youtube Live Chat එක හරහා Donate කරලා \nඅපිට සප් එක දෙන්නත් ඔයාට පුළුවන් !\n\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "16806562",
+            "subscriberCount": "131000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1194"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "HrxR5Fp2clUUHOZMqPPjOvabRXk",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "oLWN-wmaikw"
+          },
+          "snippet": {
+            "publishedAt": "2023-03-13T18:12:04Z",
+            "channelId": "UCnwpoPZccONJDGwczi3B2DA",
+            "title": "The Ultimate $800 PC Build",
+            "description": "Everything in my setup can be found here https://bit.ly/givemchills1 ⬇️Follow me here⬇️ TikTok ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/oLWN-wmaikw/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/oLWN-wmaikw/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/oLWN-wmaikw/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "GivemChills",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-03-13T18:12:04Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "XUaS07RGk3CDt4gz7c9yrXhPy2g",
+          "id": "UCnwpoPZccONJDGwczi3B2DA",
+          "snippet": {
+            "title": "GivemChills",
+            "description": "Origin \nBorn and Bred in Israel\n\nCareer\nSoftware developer, Part time streamer and content creator\n\nPassions\nGOD, FAMILY, CODING, TECH, GAME.\n\n#Unbox #Review #Stream",
+            "customUrl": "@givemchills",
+            "publishedAt": "2020-04-15T16:08:11.435501Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/T2pRQdBRtsZJpNEPAQ5GyAYPdbSzdRdeUKA34v1Kedayg6sdP3ahlDk9GIrIdZvHA3Rbr3DL0Qc=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/T2pRQdBRtsZJpNEPAQ5GyAYPdbSzdRdeUKA34v1Kedayg6sdP3ahlDk9GIrIdZvHA3Rbr3DL0Qc=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/T2pRQdBRtsZJpNEPAQ5GyAYPdbSzdRdeUKA34v1Kedayg6sdP3ahlDk9GIrIdZvHA3Rbr3DL0Qc=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "GivemChills",
+              "description": "Origin \nBorn and Bred in Israel\n\nCareer\nSoftware developer, Part time streamer and content creator\n\nPassions\nGOD, FAMILY, CODING, TECH, GAME.\n\n#Unbox #Review #Stream"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "8632462",
+            "subscriberCount": "15200",
+            "hiddenSubscriberCount": false,
+            "videoCount": "621"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "HxqJ7HCy7yWQzRfTcxdNZjElJfs",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "HOr4SHu46co"
+          },
+          "snippet": {
+            "publishedAt": "2021-09-01T01:30:02Z",
+            "channelId": "UCqAjfw0e6sqIZ6exbQ5xtWw",
+            "title": "ROG Gaming PC Build In Short - 1 #Shorts",
+            "description": "How to Build A Gaming PC Series.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/HOr4SHu46co/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/HOr4SHu46co/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/HOr4SHu46co/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "We Gaming PC Build",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-09-01T01:30:02Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "DbPwjrMjlrU6FF1dtMu8p1x6X0o",
+          "id": "UCqAjfw0e6sqIZ6exbQ5xtWw",
+          "snippet": {
+            "title": "We Gaming PC Build",
+            "description": "Focusing on delivering high quality of Gaming PC installation and configuration content, bring educational value, and sharing cutting-edge technology to the community.\n\nContact Email: wepc@startrich.com \n",
+            "customUrl": "@wepcbuild",
+            "publishedAt": "2020-07-23T23:54:12.297229Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP9G6Ozg8N35HBE7KxHtV1l1xsEzeqM19RcJRlb=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP9G6Ozg8N35HBE7KxHtV1l1xsEzeqM19RcJRlb=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP9G6Ozg8N35HBE7KxHtV1l1xsEzeqM19RcJRlb=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "We Gaming PC Build",
+              "description": "Focusing on delivering high quality of Gaming PC installation and configuration content, bring educational value, and sharing cutting-edge technology to the community.\n\nContact Email: wepc@startrich.com \n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "222908819",
+            "subscriberCount": "355000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "591"
+          }
+        }
+      }
+    ],
+    [
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "_av95k0a_aeHtzcVWGTtTVRUkWo",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "JTfq_DaLUV8"
+          },
+          "snippet": {
+            "publishedAt": "2023-04-29T14:30:07Z",
+            "channelId": "UC0uAeNHLLuAovOTHI-aOZiQ",
+            "title": "🛑 PC Gaming Is Cheap ! 🛑 $570 1440p / $1280 4K | Best PC Build 2023 (May)",
+            "description": "Sponsor: UGreen Chargers https://amzn.to/41M9SB0 3 Insane Value PC Builds for 1440p, 4K 60 FPS, 4K 144 FPS Click Show ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/JTfq_DaLUV8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/JTfq_DaLUV8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/JTfq_DaLUV8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "PC Builder",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-04-29T14:30:07Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "3Yp1qhQEy5-E0aHrGFK4_qCzt8M",
+          "id": "UC0uAeNHLLuAovOTHI-aOZiQ",
+          "snippet": {
+            "title": "PC Builder",
+            "description": "Want to have fun and get the best price to performance in your PC Build? From new builders to pros, you've come to the right place! We'll have builds for the hardcore gamer, creative video editor, and everyday user. We'll cover trends, new products, and random building fun! And beyond the best pc build, if you are looking for the best gaming monitor, best gaming laptop, or DIYPC industry news such as GPU prices coming down, we cover that content as well. ",
+            "customUrl": "@pcbuilderchannel",
+            "publishedAt": "2019-11-17T19:43:28.274793Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMdbHpVKysS9cKE8AIYxul0SQd0oZasPYThpeZo=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMdbHpVKysS9cKE8AIYxul0SQd0oZasPYThpeZo=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMdbHpVKysS9cKE8AIYxul0SQd0oZasPYThpeZo=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "PC Builder",
+              "description": "Want to have fun and get the best price to performance in your PC Build? From new builders to pros, you've come to the right place! We'll have builds for the hardcore gamer, creative video editor, and everyday user. We'll cover trends, new products, and random building fun! And beyond the best pc build, if you are looking for the best gaming monitor, best gaming laptop, or DIYPC industry news such as GPU prices coming down, we cover that content as well. "
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "38601949",
+            "subscriberCount": "315000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "217"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "OuziOOAm-B37EW-M91zW2pJzSgY",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "iuPfQCegbYo"
+          },
+          "snippet": {
+            "publishedAt": "2022-05-14T18:05:15Z",
+            "channelId": "UCXGgrKt94gR6lmN4aN3mYTg",
+            "title": "Should You Build a Gaming PC from GameStop?",
+            "description": "GameStop enables me to make questionable decisions. Weirdest Products Apple STILL Sells: ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/iuPfQCegbYo/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/iuPfQCegbYo/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/iuPfQCegbYo/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Austin Evans",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-05-14T18:05:15Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "0l-5UQwqLdPjDwhU6YIFHD1F-eQ",
+          "id": "UCXGgrKt94gR6lmN4aN3mYTg",
+          "snippet": {
+            "title": "Austin Evans",
+            "description": "The best of technology from gaming PCs to smartphones and everything in between. Whether it's finding out if that new gadget is worth it, discovering the coolest of retro and cutting edge tech or testing the latest smartphone you'll find it all here. \n\nWant to send something for me to take a look at?\n\nAustin Evans\n112 Harvard Avenue #49\nClaremont, CA 91711\n\nChannel Staff:\n\nHost - Austin Evans\nProducers - Kenneth Bolido, Matt Ansini, Alex and Kinsey\nVideo Editor - Rio\nVideo Editor - Seth Dacio\nCinematographer - Joanna\n",
+            "customUrl": "@austinevans",
+            "publishedAt": "2007-08-05T01:39:45Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqONYJyETQF9a0beyPryLh8CsPqILrMZowvcX3AsFA=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqONYJyETQF9a0beyPryLh8CsPqILrMZowvcX3AsFA=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqONYJyETQF9a0beyPryLh8CsPqILrMZowvcX3AsFA=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Austin Evans",
+              "description": "The best of technology from gaming PCs to smartphones and everything in between. Whether it's finding out if that new gadget is worth it, discovering the coolest of retro and cutting edge tech or testing the latest smartphone you'll find it all here. \n\nWant to send something for me to take a look at?\n\nAustin Evans\n112 Harvard Avenue #49\nClaremont, CA 91711\n\nChannel Staff:\n\nHost - Austin Evans\nProducers - Kenneth Bolido, Matt Ansini, Alex and Kinsey\nVideo Editor - Rio\nVideo Editor - Seth Dacio\nCinematographer - Joanna\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "1317347017",
+            "subscriberCount": "5390000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1887"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "7W7cWC5qcd2KUKtV1kVNq7Q0toQ",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "AbbR03zbFU8"
+          },
+          "snippet": {
+            "publishedAt": "2023-04-07T15:16:24Z",
+            "channelId": "UCnULtvU9WMk9SYu5uI5rvcA",
+            "title": "28 Lakh Rupees! Ultimate Gaming Pc in Pakistan | 10000$ Gaming Pc Build",
+            "description": "CONTACT ON MY WHTSAPP TO BUY ANYTHING IN THIS VIDEO ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/AbbR03zbFU8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/AbbR03zbFU8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/AbbR03zbFU8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Daddu Charger",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-04-07T15:16:24Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "DeWRksDEVj8U-LnZZ57IzIdSUA0",
+          "id": "UCnULtvU9WMk9SYu5uI5rvcA",
+          "snippet": {
+            "title": "Daddu Charger",
+            "description": "500k Subscribers",
+            "customUrl": "@dadducharger",
+            "publishedAt": "2017-10-09T17:50:21Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPamUTjEkroYon8uVoaRkW-zbqdWdSli7Z2wW-5ZA=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPamUTjEkroYon8uVoaRkW-zbqdWdSli7Z2wW-5ZA=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPamUTjEkroYon8uVoaRkW-zbqdWdSli7Z2wW-5ZA=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Daddu Charger",
+              "description": "500k Subscribers"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "4553599",
+            "subscriberCount": "54600",
+            "hiddenSubscriberCount": false,
+            "videoCount": "309"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "V-_EorZuodR7eLxQ5nIYdMneAnI",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "s7F51SV9TSQ"
+          },
+          "snippet": {
+            "publishedAt": "2022-07-06T13:49:06Z",
+            "channelId": "UCGnftwtV3f7Ezh-x5xBj5Dw",
+            "title": "Vinny finna get fired fr 😩 #shorts #gamingpc #pcsetup #pc #gamer #pcbuild #gamergirl #pcgaming",
+            "description": "We Build Gaming PC's for people like you here!   https://overkillcomputers.com/pages/links You can Also win one every month ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/s7F51SV9TSQ/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/s7F51SV9TSQ/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/s7F51SV9TSQ/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Overkill Computers",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-07-06T13:49:06Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "dVk3GRHOWwyYw17hkWxqyuV4Fiw",
+          "id": "UCGnftwtV3f7Ezh-x5xBj5Dw",
+          "snippet": {
+            "title": "Overkill Computers",
+            "description": "We are a Team of PC Builders and Creators! We create some of the world's BEST PC's, Epic Viral Projects and Giveaways here 👉",
+            "customUrl": "@overkillcomputers",
+            "publishedAt": "2011-06-24T03:21:20Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/Me-p7sdnA8D57IKmWmbaMKW-ni5Ic4gl1SdOMWj-hfbGqJj1zGVcs8ND1uuDOMHtmYqzc3tY=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/Me-p7sdnA8D57IKmWmbaMKW-ni5Ic4gl1SdOMWj-hfbGqJj1zGVcs8ND1uuDOMHtmYqzc3tY=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/Me-p7sdnA8D57IKmWmbaMKW-ni5Ic4gl1SdOMWj-hfbGqJj1zGVcs8ND1uuDOMHtmYqzc3tY=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Overkill Computers",
+              "description": "We are a Team of PC Builders and Creators! We create some of the world's BEST PC's, Epic Viral Projects and Giveaways here 👉"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "106054449",
+            "subscriberCount": "935000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "454"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "7mTr6TZeLaSb9s03zLpTvfGmbZs",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "JWQKFlzPn_s"
+          },
+          "snippet": {
+            "publishedAt": "2023-03-15T18:00:07Z",
+            "channelId": "UCBS1NUWY7oC6FFHaXQy4zAA",
+            "title": "$1000 Gaming PC Build Guide for 2023!",
+            "description": "Thanks to Acronis for sponsoring this video! Head to https://go.acronis.com/TECHTURF and use code TECHTURF2023 to get ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/JWQKFlzPn_s/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/JWQKFlzPn_s/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/JWQKFlzPn_s/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Zach's Tech Turf",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-03-15T18:00:07Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "jTThln9zjOAqqGIoQhMz74HRiuU",
+          "id": "UCBS1NUWY7oC6FFHaXQy4zAA",
+          "snippet": {
+            "title": "Zach's Tech Turf",
+            "description": "The PC building channel for people with busy lives! Creating PC building, benchmarking, and setup guide videos the way I personally like to watch videos, quick and to the point!\n\nHere at Zach's Tech Turf I'm all about delivering only the essential information that you need to purchase and build your first gaming PC, make some money with your next gaming PC flip, or whatever other PC hardware needs you may have! \n\nI also live stream all of my gaming PC builds over on my Twitch channel (link below) and I'm VERY active in my Discord community, we would love to have you.",
+            "customUrl": "@zachstechturf",
+            "publishedAt": "2015-04-26T00:35:30Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP0lokT8Sl0k09CYS6GN2M2p07nY1ZHhjiLhNKZh3A=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP0lokT8Sl0k09CYS6GN2M2p07nY1ZHhjiLhNKZh3A=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP0lokT8Sl0k09CYS6GN2M2p07nY1ZHhjiLhNKZh3A=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Zach's Tech Turf",
+              "description": "The PC building channel for people with busy lives! Creating PC building, benchmarking, and setup guide videos the way I personally like to watch videos, quick and to the point!\n\nHere at Zach's Tech Turf I'm all about delivering only the essential information that you need to purchase and build your first gaming PC, make some money with your next gaming PC flip, or whatever other PC hardware needs you may have! \n\nI also live stream all of my gaming PC builds over on my Twitch channel (link below) and I'm VERY active in my Discord community, we would love to have you."
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "59891944",
+            "subscriberCount": "246000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "854"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "XBkpNQXBIS2T1Hx76ecqJzsmz4U",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "zUKpFgCgau8"
+          },
+          "snippet": {
+            "publishedAt": "2022-07-23T18:30:06Z",
+            "channelId": "UCStk7sZhuFJhxdvyXksdj5Q",
+            "title": "BEST $1500 Gaming PC Build Guide - RTX 3080 Ryzen 7 5800X (w/ Benchmarks)",
+            "description": "How to Build a Nvidia RTX 3080 & Ryzen 7 5800X Gaming PC Full Guide Games tested Warzone, Apex, Valorant, Fortnite with ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/zUKpFgCgau8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/zUKpFgCgau8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/zUKpFgCgau8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "CRATER",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-07-23T18:30:06Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "lMNEgabA-3VFrDRSHRiS9T9AtZk",
+          "id": "UCStk7sZhuFJhxdvyXksdj5Q",
+          "snippet": {
+            "title": "CRATER",
+            "description": "",
+            "customUrl": "@craterhq",
+            "publishedAt": "2013-03-30T04:45:32Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/2J5jbTD7h95FzO3qBVewb-e0ffO5Rt0XISTnBvAg2R7WUVbbhi_ebdMy1ffIxLzYWQq-w3oGzg=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/2J5jbTD7h95FzO3qBVewb-e0ffO5Rt0XISTnBvAg2R7WUVbbhi_ebdMy1ffIxLzYWQq-w3oGzg=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/2J5jbTD7h95FzO3qBVewb-e0ffO5Rt0XISTnBvAg2R7WUVbbhi_ebdMy1ffIxLzYWQq-w3oGzg=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "CRATER",
+              "description": ""
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "100094967",
+            "subscriberCount": "839000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "104"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "9nibgBaZhEIgelDMK4K_CSeBh0I",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "daA2PJQ-6Do"
+          },
+          "snippet": {
+            "publishedAt": "2023-04-22T16:00:25Z",
+            "channelId": "UCSy7VGPa8Np8PNjV7Mz-xZg",
+            "title": "$700 Gaming PC Build Guide! (2023)",
+            "description": "Download Opera for free: https://opr.as/Opera-Browser-TechByMattB Thanks to Opera for sponsoring this video! Welcome to my ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/daA2PJQ-6Do/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/daA2PJQ-6Do/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/daA2PJQ-6Do/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Tech By Matt",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-04-22T16:00:25Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "f8LrEwUxCTADjtc3tDqx-_eEWbg",
+          "id": "UCSy7VGPa8Np8PNjV7Mz-xZg",
+          "snippet": {
+            "title": "Tech By Matt",
+            "description": "Whats up youtube!\nIm Matt and I make videos about anything and everything related to tech.\n\nEmail(Business Inquiries only):\n\nMatt@TechbyMatt.net\n\n--------------EMAIL CHANGE NOTICE-----------------\nOld Email: thebermanator@ufl.edu\nChange Effective(7/26/16)\n---------------------------------------------------------",
+            "customUrl": "@techbymattb",
+            "publishedAt": "2015-02-22T19:39:36Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPEwbGWSr8lUNRPmM_saqxI-xVNlZerbmBTqRQR=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPEwbGWSr8lUNRPmM_saqxI-xVNlZerbmBTqRQR=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPEwbGWSr8lUNRPmM_saqxI-xVNlZerbmBTqRQR=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Tech By Matt",
+              "description": "Whats up youtube!\nIm Matt and I make videos about anything and everything related to tech.\n\nEmail(Business Inquiries only):\n\nMatt@TechbyMatt.net\n\n--------------EMAIL CHANGE NOTICE-----------------\nOld Email: thebermanator@ufl.edu\nChange Effective(7/26/16)\n---------------------------------------------------------"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "43809194",
+            "subscriberCount": "214000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "282"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "eGDrxPI1rWqZRZ1oG8pJLzNCj0w",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "SEQhfPihTF8"
+          },
+          "snippet": {
+            "publishedAt": "2023-05-12T20:59:08Z",
+            "channelId": "UCmbkRUS_4Efdt5UIhwNqtcw",
+            "title": "The CHEAPSKATE PC Build",
+            "description": "SPONSOR: Use code 'GSVIP' on VIP-SCDKey for 30% off - only during their May sale! Windows 10 ($15): ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/SEQhfPihTF8/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/SEQhfPihTF8/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/SEQhfPihTF8/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Greg Salazar",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-12T20:59:08Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "c1LfWTHj_VfYyvoS4y6RB1LR64w",
+          "id": "UCmbkRUS_4Efdt5UIhwNqtcw",
+          "snippet": {
+            "title": "Greg Salazar",
+            "description": "My name is Greg Salazar! Around here, you'll find plenty of PC builds, troubleshooting guides, cleaning montages, and strange tech products. I've changed this channel's name several times throughout the years. You may know us as \"Science Studio\" or \"Salazar Studio.\" Whether you're an avid viewer or first-timer, we hope you'll stick around! Content is published every week. Thanks for learning with me!\n\n\n",
+            "customUrl": "@gregsalazar",
+            "publishedAt": "2015-06-30T03:04:49Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqOsXv7-NzUpAssGp5XkCyMPiYDdJ1ueY80ztZZAtA=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqOsXv7-NzUpAssGp5XkCyMPiYDdJ1ueY80ztZZAtA=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqOsXv7-NzUpAssGp5XkCyMPiYDdJ1ueY80ztZZAtA=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Greg Salazar",
+              "description": "My name is Greg Salazar! Around here, you'll find plenty of PC builds, troubleshooting guides, cleaning montages, and strange tech products. I've changed this channel's name several times throughout the years. You may know us as \"Science Studio\" or \"Salazar Studio.\" Whether you're an avid viewer or first-timer, we hope you'll stick around! Content is published every week. Thanks for learning with me!\n\n\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "187732425",
+            "subscriberCount": "878000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1198"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "k91IilZ8VnO1_U9uROyQ9lF-bSY",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "67XbwfE53-E"
+          },
+          "snippet": {
+            "publishedAt": "2023-05-30T15:00:05Z",
+            "channelId": "UC0tjLzXLCusokXHoIHsxmEg",
+            "title": "সকল কাজের সেরা কম্পিউটার। Computer price in Bangladesh | Gaming PC Build",
+            "description": "যোগাযোগ SP Trade International সুবাস্তু অর্কিড, আইসিটি ভবন (২য় তলা) দোকান নং ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/67XbwfE53-E/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/67XbwfE53-E/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/67XbwfE53-E/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "Top BD",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-30T15:00:05Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "KbYDBSz6OexktH0ULIgY-AdTpFw",
+          "id": "UC0tjLzXLCusokXHoIHsxmEg",
+          "snippet": {
+            "title": "Top BD",
+            "description": "যেকোন পণ্য এবং ব্যবসায়ীক প্রতিষ্ঠানের প্রচারের জন্য যোগাযোগ করুন:  \nTop BD: \n01907782286\n(No call only send sms)\n",
+            "customUrl": "@top-bd",
+            "publishedAt": "2019-10-31T04:30:29.766165Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPSv4ZFN94tNYI8KgbU-0lzaktAYpxnGuLohuZ51Q=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPSv4ZFN94tNYI8KgbU-0lzaktAYpxnGuLohuZ51Q=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqPSv4ZFN94tNYI8KgbU-0lzaktAYpxnGuLohuZ51Q=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "Top BD",
+              "description": "যেকোন পণ্য এবং ব্যবসায়ীক প্রতিষ্ঠানের প্রচারের জন্য যোগাযোগ করুন:  \nTop BD: \n01907782286\n(No call only send sms)\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "67260988",
+            "subscriberCount": "714000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2059"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "IDjuYqFOXBAa1wxW2xk7Hju6zco",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "zKDPUB8lWog"
+          },
+          "snippet": {
+            "publishedAt": "2023-05-23T12:00:14Z",
+            "channelId": "UCT6e73e0M6_YoGD_p77z_zQ",
+            "title": "「BRO」4K PC Build Thermaltake C750TG With Swafan.The First Split Water Cooling #pcbuild",
+            "description": "Cost About 9.4K USD BRO Discord https://discord.com/invite/zMAWTRunkW Cpu : INTEL I9-13900KS Mainboard : ROG Maximus ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/zKDPUB8lWog/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/zKDPUB8lWog/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/zKDPUB8lWog/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "BRO COOLING",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-23T12:00:14Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "IMoxHCfutelDN1cQXp2eSOjZeZk",
+          "id": "UCT6e73e0M6_YoGD_p77z_zQ",
+          "snippet": {
+            "title": "BRO COOLING",
+            "description": "YouTube Official Channel - BRO COOLING (BRO兄弟水冷)\nYouTube唯一官方频道- BRO COOLING( BRO兄弟水冷)，更多咨询请关注微信公众号：BRO兄弟水冷\nYouTube Sub Channel - BRO COOLING Sub\nAny Order Can Chat With BRO Discord - https://discord.com/invite/zMAWTRunkW\n\n",
+            "customUrl": "@brocooling",
+            "publishedAt": "2019-07-03T12:33:16Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/iM8YLdk4s-Amzy7MnIxUpKerNVvPsUS3Uz75XACo_dfQhIrcM16IoAk63C6RYKTl93Zs3lnnlio=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/iM8YLdk4s-Amzy7MnIxUpKerNVvPsUS3Uz75XACo_dfQhIrcM16IoAk63C6RYKTl93Zs3lnnlio=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/iM8YLdk4s-Amzy7MnIxUpKerNVvPsUS3Uz75XACo_dfQhIrcM16IoAk63C6RYKTl93Zs3lnnlio=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "defaultLanguage": "zh-CN",
+            "localized": {
+              "title": "BRO COOLING",
+              "description": "YouTube Official Channel - BRO COOLING (BRO兄弟水冷)\nYouTube唯一官方频道- BRO COOLING( BRO兄弟水冷)，更多咨询请关注微信公众号：BRO兄弟水冷\nYouTube Sub Channel - BRO COOLING Sub\nAny Order Can Chat With BRO Discord - https://discord.com/invite/zMAWTRunkW\n\n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "16819296",
+            "subscriberCount": "126000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "70"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "HxqJ7HCy7yWQzRfTcxdNZjElJfs",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "HOr4SHu46co"
+          },
+          "snippet": {
+            "publishedAt": "2021-09-01T01:30:02Z",
+            "channelId": "UCqAjfw0e6sqIZ6exbQ5xtWw",
+            "title": "ROG Gaming PC Build In Short - 1 #Shorts",
+            "description": "How to Build A Gaming PC Series.",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/HOr4SHu46co/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/HOr4SHu46co/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/HOr4SHu46co/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "We Gaming PC Build",
+            "liveBroadcastContent": "none",
+            "publishTime": "2021-09-01T01:30:02Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "DbPwjrMjlrU6FF1dtMu8p1x6X0o",
+          "id": "UCqAjfw0e6sqIZ6exbQ5xtWw",
+          "snippet": {
+            "title": "We Gaming PC Build",
+            "description": "Focusing on delivering high quality of Gaming PC installation and configuration content, bring educational value, and sharing cutting-edge technology to the community.\n\nContact Email: wepc@startrich.com \n",
+            "customUrl": "@wepcbuild",
+            "publishedAt": "2020-07-23T23:54:12.297229Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP9G6Ozg8N35HBE7KxHtV1l1xsEzeqM19RcJRlb=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP9G6Ozg8N35HBE7KxHtV1l1xsEzeqM19RcJRlb=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqP9G6Ozg8N35HBE7KxHtV1l1xsEzeqM19RcJRlb=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "We Gaming PC Build",
+              "description": "Focusing on delivering high quality of Gaming PC installation and configuration content, bring educational value, and sharing cutting-edge technology to the community.\n\nContact Email: wepc@startrich.com \n"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "222908819",
+            "subscriberCount": "355000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "591"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "YMj1j4F7K9KRe_MxcV0Tdjpry90",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "0vpYSFuGEL0"
+          },
+          "snippet": {
+            "publishedAt": "2022-03-23T15:40:29Z",
+            "channelId": "UCQSpnDG3YsFNf5-qHocF-WQ",
+            "title": "I FINALLY Built a New PC After 7 Years (Unlimited Budget)",
+            "description": "This thing better last a while . No scalpers were paid in the making of this video ;) ▽ Time Stamps: ▽ 0:00 - Intro 0:51 - Showing ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/0vpYSFuGEL0/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/0vpYSFuGEL0/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/0vpYSFuGEL0/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "ThioJoe",
+            "liveBroadcastContent": "none",
+            "publishTime": "2022-03-23T15:40:29Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "YTS6BW0bFkzhrwLWHN53LB-WkVE",
+          "id": "UCQSpnDG3YsFNf5-qHocF-WQ",
+          "snippet": {
+            "title": "ThioJoe",
+            "description": "I make technology videos, including tech news, reviews, and discussions. I also try to make complex topics not-boring.\n\n━━━\nIf you're a brand looking to do an integration, see the \"Info For Brands\" link. \n⚠️My official email addresses are all @ThioJoe.com! Any others are SCAMS! Contact me via the email below if not sure!⚠️",
+            "customUrl": "@thiojoe",
+            "publishedAt": "2009-02-05T22:32:40Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMsagJqJiFffFIyFaajtjrF1Hfl3V2JKq_RjPnnMA=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMsagJqJiFffFIyFaajtjrF1Hfl3V2JKq_RjPnnMA=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqMsagJqJiFffFIyFaajtjrF1Hfl3V2JKq_RjPnnMA=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "ThioJoe",
+              "description": "I make technology videos, including tech news, reviews, and discussions. I also try to make complex topics not-boring.\n\n━━━\nIf you're a brand looking to do an integration, see the \"Info For Brands\" link. \n⚠️My official email addresses are all @ThioJoe.com! Any others are SCAMS! Contact me via the email below if not sure!⚠️"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "230551972",
+            "subscriberCount": "2990000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "832"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "frQ__69huWPk1MUvjVoczgBe2nQ",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "hT8f8c4P2w4"
+          },
+          "snippet": {
+            "publishedAt": "2023-04-29T12:15:02Z",
+            "channelId": "UCmA9AwHwRQtBghd4GIT5eag",
+            "title": "2023 Gaming PC Build",
+            "description": "Eyyy~ My 2023 Gaming PC Build Video is up! Full Spec : CPU : Intel i7 13700K AIO : DeepCool LT720 White GPU : Gigabyte RTX ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/hT8f8c4P2w4/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/hT8f8c4P2w4/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/hT8f8c4P2w4/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "LORELYNF",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-04-29T12:15:02Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "lBRP5RrmYmF3FCTiteg9v6ujpYA",
+          "id": "UCmA9AwHwRQtBghd4GIT5eag",
+          "snippet": {
+            "title": "LORELYNF",
+            "description": "My name is LORELYN. I do QUALITY TECH REVIEWS & INSANE GAMEPLAY. =)\n\nBusiness Inquiries : superlorelyn@gmail.com\n\n► Official Sponsor for MSI ◄\nMotherboard : MSI B350M MORTAR\nGraphics Card : MSI GTX 1050 TI GAMING X 4G\n\nGaming Gears by MSI :\nVigor GK80 -https://goo.gl/Aponiz\nImmerse GH70 -https://goo.gl/BaSYwK\nClutch GM60 -https://goo.gl/yYWfov\nMSI Gaming PC - https://youtu.be/wnVSanSUWxc\n\nMSI Gaming PC - https://youtu.be/wnVSanSUWxc\n\n#MSI #MSIGamingPH#MSIDragonSquad\n\nVideo : https://youtu.be/Sxah8qX7Ytk\n\nSell Steam Items with +3% BONUS = http://bit.ly/2I7mhLd \n\nWant to play with me? Join our Gaming Community ~ https://facebook.com/groups/trapdoorgaming\n\nLivestream ~ https://twitch.tv/lorelynf\n\nIf you want to give me Steam stuffs, here's my link - https://steamcommunity.com/tradeoffer/new/?partner=301822171&token=7E-QnRS9\n\n90% Off Games : http://g2a.com/r/lorelynf1",
+            "customUrl": "@lorelynf",
+            "publishedAt": "2013-02-12T09:06:21Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqNnuFgEAlYitO3zveeSkm2Cm8f0mVf_VMotQjB3vw=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqNnuFgEAlYitO3zveeSkm2Cm8f0mVf_VMotQjB3vw=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/ytc/AGIKgqNnuFgEAlYitO3zveeSkm2Cm8f0mVf_VMotQjB3vw=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "LORELYNF",
+              "description": "My name is LORELYN. I do QUALITY TECH REVIEWS & INSANE GAMEPLAY. =)\n\nBusiness Inquiries : superlorelyn@gmail.com\n\n► Official Sponsor for MSI ◄\nMotherboard : MSI B350M MORTAR\nGraphics Card : MSI GTX 1050 TI GAMING X 4G\n\nGaming Gears by MSI :\nVigor GK80 -https://goo.gl/Aponiz\nImmerse GH70 -https://goo.gl/BaSYwK\nClutch GM60 -https://goo.gl/yYWfov\nMSI Gaming PC - https://youtu.be/wnVSanSUWxc\n\nMSI Gaming PC - https://youtu.be/wnVSanSUWxc\n\n#MSI #MSIGamingPH#MSIDragonSquad\n\nVideo : https://youtu.be/Sxah8qX7Ytk\n\nSell Steam Items with +3% BONUS = http://bit.ly/2I7mhLd \n\nWant to play with me? Join our Gaming Community ~ https://facebook.com/groups/trapdoorgaming\n\nLivestream ~ https://twitch.tv/lorelynf\n\nIf you want to give me Steam stuffs, here's my link - https://steamcommunity.com/tradeoffer/new/?partner=301822171&token=7E-QnRS9\n\n90% Off Games : http://g2a.com/r/lorelynf1"
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "22461351",
+            "subscriberCount": "210000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "678"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "pDtmBXWhtAaW-IYg5dtj-kFR2BE",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "rYUHFXLFMUE"
+          },
+          "snippet": {
+            "publishedAt": "2023-05-08T22:50:23Z",
+            "channelId": "UCkWQ0gDrqOCarmUKmppD7GQ",
+            "title": "This is why people hate building PCs these days",
+            "description": "Getting ready to build a watercooled PC? Keep these things in mind! Sponsored Links New Customer Exclusive - Get the Creality ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/rYUHFXLFMUE/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/rYUHFXLFMUE/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/rYUHFXLFMUE/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "JayzTwoCents",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-05-08T22:50:23Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "Qa78xzs8PmUo98HyJ7FgxZ9IUwA",
+          "id": "UCkWQ0gDrqOCarmUKmppD7GQ",
+          "snippet": {
+            "title": "JayzTwoCents",
+            "description": "Here at JayzTwoCents we strive to create informed and intelligent buyers when it comes to PC building. Whether it be computers, components, or how-to content, you will leave with more confidence in your ability to troubleshoot, fix and build your next PC! ",
+            "customUrl": "@jayztwocents",
+            "publishedAt": "2012-08-26T20:24:44Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/EAJTcRmRdv3plIT4zRJlyWRnf4cS_zVt6YVtSZ39hQ4ryApK0ZPLEi0YFKdW-eCy6X0CATq9=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/EAJTcRmRdv3plIT4zRJlyWRnf4cS_zVt6YVtSZ39hQ4ryApK0ZPLEi0YFKdW-eCy6X0CATq9=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/EAJTcRmRdv3plIT4zRJlyWRnf4cS_zVt6YVtSZ39hQ4ryApK0ZPLEi0YFKdW-eCy6X0CATq9=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "JayzTwoCents",
+              "description": "Here at JayzTwoCents we strive to create informed and intelligent buyers when it comes to PC building. Whether it be computers, components, or how-to content, you will leave with more confidence in your ability to troubleshoot, fix and build your next PC! "
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "990000405",
+            "subscriberCount": "3900000",
+            "hiddenSubscriberCount": false,
+            "videoCount": "2037"
+          }
+        }
+      },
+      {
+        "video": {
+          "kind": "youtube#searchResult",
+          "etag": "gSUOlHSrXz0VEECEXCqgDMQTQ2s",
+          "id": {
+            "kind": "youtube#video",
+            "videoId": "_bL-dS7lZ5g"
+          },
+          "snippet": {
+            "publishedAt": "2023-02-03T03:06:28Z",
+            "channelId": "UCrkE7jfbzqzRlWKZ5DU5tXA",
+            "title": "Under $300 Gaming PC Build",
+            "description": "My car Youtube channel https://www.youtube.com/channel/UCkSjVbTrUJ_Y1q8S0xUsK2Q -Amazon Affiliate link (use it to buy ...",
+            "thumbnails": {
+              "default": {
+                "url": "https://i.ytimg.com/vi/_bL-dS7lZ5g/default.jpg",
+                "width": 120,
+                "height": 90
+              },
+              "medium": {
+                "url": "https://i.ytimg.com/vi/_bL-dS7lZ5g/mqdefault.jpg",
+                "width": 320,
+                "height": 180
+              },
+              "high": {
+                "url": "https://i.ytimg.com/vi/_bL-dS7lZ5g/hqdefault.jpg",
+                "width": 480,
+                "height": 360
+              }
+            },
+            "channelTitle": "brandon coin",
+            "liveBroadcastContent": "none",
+            "publishTime": "2023-02-03T03:06:28Z"
+          }
+        },
+        "channel": {
+          "kind": "youtube#channel",
+          "etag": "F7jbZvnFtHEU0ds-7ZaySVl1rMo",
+          "id": "UCrkE7jfbzqzRlWKZ5DU5tXA",
+          "snippet": {
+            "title": "brandon coin",
+            "description": "",
+            "customUrl": "@brandoncoin",
+            "publishedAt": "2017-10-29T01:46:36Z",
+            "thumbnails": {
+              "default": {
+                "url": "https://yt3.ggpht.com/I55p-s16Tz0dpFZt5dVz9COWY4nkzb12JyRrE1KDz0kagpXpgQY88yKpVM_JvTYjg6oCnbIgTQ=s88-c-k-c0x00ffffff-no-rj",
+                "width": 88,
+                "height": 88
+              },
+              "medium": {
+                "url": "https://yt3.ggpht.com/I55p-s16Tz0dpFZt5dVz9COWY4nkzb12JyRrE1KDz0kagpXpgQY88yKpVM_JvTYjg6oCnbIgTQ=s240-c-k-c0x00ffffff-no-rj",
+                "width": 240,
+                "height": 240
+              },
+              "high": {
+                "url": "https://yt3.ggpht.com/I55p-s16Tz0dpFZt5dVz9COWY4nkzb12JyRrE1KDz0kagpXpgQY88yKpVM_JvTYjg6oCnbIgTQ=s800-c-k-c0x00ffffff-no-rj",
+                "width": 800,
+                "height": 800
+              }
+            },
+            "localized": {
+              "title": "brandon coin",
+              "description": ""
+            },
+            "country": "US"
+          },
+          "statistics": {
+            "viewCount": "17521631",
+            "subscriberCount": "90800",
+            "hiddenSubscriberCount": false,
+            "videoCount": "1667"
+          }
+        }
+      }
+    ]
+  ]
+}
